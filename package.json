@@ -1,5 +1,5 @@
 {
-  "name": "url-cleaner",
+  "name": "url-cleanerr",
   "version": "1.0.0",
   "description": "A lightweight library to clean URLs by removing tracking parameters.",
   "main": "src/index.js",
