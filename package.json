@@ -1,0 +1,30 @@
+{
+  "name": "url-cleaner",
+  "version": "1.0.0",
+  "description": "A lightweight library to clean URLs by removing tracking parameters.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bouchaala-sabri/url-cleaner.git"
+  },
+  "keywords": [
+    "url",
+    "cleaner",
+    "tracking",
+    "parameters",
+    "utm",
+    "clean-url"
+  ],
+  "author": "Sabri Bouchaala <bouchaala.sabri@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bouchaala-sabri/url-cleaner/issues"
+  },
+  "homepage": "https://github.com/bouchaala-sabri/url-cleaner#readme",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
