@@ -13,7 +13,7 @@ A lightweight library to clean URLs by removing tracking parameters like `utm_so
 Install URL Cleaner using npm:
 
 ```bash
-npm install url-cleaner
+npm install url-cleanerr
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ npm install url-cleaner
 Import the library and use it to clean URLs:
 
 ```javascript
-const cleanUrl = require('url-cleaner');
+const cleanUrl = require('url-cleanerr');
 
 const url = 'https://example.com?utm_source=test&param=keep&gclid=abc';
 const cleaned = cleanUrl(url);
@@ -46,7 +46,7 @@ npm test
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit issues or pull requests on [GitHub](https://github.com/bouchaala-sabri/url-cleaner).
+Contributions are welcome! Feel free to submit issues or pull requests on [GitHub](https://github.com/bouchaala-sabri/url-cleanerr).
 
 ## License
 
